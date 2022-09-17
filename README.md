@@ -14,7 +14,7 @@
 
 * A very simple Binary Classification From Scratch. I did not use Scikit-Learn or any similar libraries. <br/> The main point from this is to understand how Logistic Regression works in the backgroud. Understand the math and the concept of it is much important using a library with 2 lines to train the model! At least for a beginner like me :) 
 
-* I have used a dataset found online, it is very simple! we have 2 features and 2 possible outputs 1 or 0. I calculated the accuracy which is equal to the __Total Correct Answers__ (whether the predicted is 1 and the actual value is 1 __OR__ predicted = 0 and the actual is 0) / The Total samples numbers. I used scipy.optimize for optimization and Cross-Entropy Loss as a Cost Function.
+* I have used a dataset found online, it is very simple! we have 2 features and 2 possible outputs 1 or 0. I calculated the accuracy which is equal to the __Total Correct Answers__ (whether the predicted is 1 and the actual value is 1 __OR__ predicted = 0 and the actual is 0) / The Total samples numbers. I used scipy.optimize for optimization and Cross-Entropy Loss as a Cost Function. And __Sigmoid Function__ as an Activation Function 
 
 <br/>
 
